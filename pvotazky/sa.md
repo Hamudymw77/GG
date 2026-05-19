@@ -1,0 +1,1 @@
+udelal bys to prosim jeste jednou , a klidne do podrobna to udelej jo, a hlavne udelej to co je dulezite prosimte at vim o tom tu spravnou vec a at je to spravne vse. udelej markdown ke kazde otazce a i .py soubor kde s to treba vyzkousim udelat kodem, pokud je tam kod 
